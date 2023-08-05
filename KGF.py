@@ -1,2 +1,2 @@
-from kgf import main
+from kgff import main
 main()
