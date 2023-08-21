@@ -1,2 +1,2 @@
-from kgfo import main
+from kgfc import main
 main()
